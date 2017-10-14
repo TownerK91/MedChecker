@@ -1,3 +1,6 @@
+body{
+    background-color:blue;
+}
 #imgHeading {
     height: 60px;
     width: 100px;
@@ -11,7 +14,7 @@
 #mainText {
     font-family: 'Lobster', cursive;
     font-size: 70px;
-	color: black;
+	color: #2435F5;
 }
 
 #navBg {
@@ -38,9 +41,12 @@ li {
     list-style: none;
 }
 
+
 #iconOne {
     height: 25px;
     width: 25px;
+    margin-left:30px;
+
 }
 
 #icon2 {
@@ -93,4 +99,12 @@ li {
     background-color: #FFFF00;
     padding-left: 3px;
     border-bottom: 1px solid black;
+}
+.btn-index{
+    margin-left: 185px;
+    margin-top: 50px;
+
+}
+.card-block{
+    background-color:#F7F7F7;
 }
